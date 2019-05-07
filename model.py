@@ -1,3 +1,8 @@
+'''
+Bayesian learning Model to find most likely rule and thus predict next number.
+'''
+
+
 from scipy.stats import norm
 import numpy as np
 import random
@@ -182,7 +187,7 @@ def main(D):
     print("Sequence is too noisy for given hypothesis")
   else:
     for h in top:
-      print(h," : ",Post[h])
+      print(h," : ",Post[h], " . Prediction : ",H[h][D[-1]])
       
 D=[1,2,14,20,21]    
 main(D)

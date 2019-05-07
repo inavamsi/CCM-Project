@@ -1,0 +1,48 @@
+Tasks for CCM Project
+(7 days left)
+
+Sunday - Overleaf and Report writing
+
+Tuesday, Wednesday, Thursday, Friday, Saturday - 5 days
+
+
+What to do?
+
+1. Behavioral Experiments 
+2. Model 
+3. LSTMs
+4. Comparison metrics and plots between them
+
+We first have to decide how to compare models
+
+
+1. Behavioral Experiments (Alfred)
+
+	1. Craft behavioral data
+	2. Circulate it as soon as possible and we should get as much data as possible
+	3. Get the behavioral data and work on the data such as creating plots and organizing it (Should Plan It)
+
+2. Model (Inav)
+	
+	1. Code the model
+	2. Get results and plots and organize it (Should Plan It)
+
+3.  LSTMs (Mohith & Inav)
+
+	1. Train different models varying hyperparameters and get results
+	2. Get results and generate plots for comparison 
+
+4.  Get all the plots and results from all and make meaning full comparisons (All)
+
+
+By friday, we should wind up all experiments and on saturday we will focus on getting plots and comparisons
+If any kind of bugs, we should deal with them by saturday evening.
+
+By sunday evening, report has to be completed!
+
+
+
+
+
+
+

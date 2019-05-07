@@ -3,13 +3,13 @@ import math
 
 p = [2, 4, 6, 8]
 count = 0
-tot = 300
+tot = 200
 freq = {}
 for j in range(tot):
 
 	l = [2, 4, 6, 8]
 	for i in range(len(l)):
-		val = np.random.normal(0,0.6)
+		val = np.random.normal(0,0.9)
 		if val > 0:
 			val = math.floor(abs(val))
 		else:

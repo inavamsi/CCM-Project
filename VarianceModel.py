@@ -1,3 +1,7 @@
+'''
+This file can be used to figure out a correct varaiance value to generate data with constarints on expectation on numbe rof pure sequences and nosiy sequences.
+'''
+
 from scipy.stats import norm
 import numpy as np
 import random
